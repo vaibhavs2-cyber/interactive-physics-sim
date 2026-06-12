@@ -40,5 +40,5 @@ Visualizes wave optics and the superposition of expanding wavefronts.
 * **Build Tool:** Vite
 
 ## 📸 Screenshots
-![alt text](<Minimalist Beauty Photo Collage Instagram Portrait Post.png>)
-![alt text](<Minimalist Beauty Photo Collage Instagram Portrait Post (1).png>)
+![alt text](<project-screenshot 2.png>)
+![alt text](<project-screenshot 1.png>)
